@@ -23,7 +23,7 @@ This is a simple calculator program written in Java. It allows users to perform 
 
 ## Contributing
 
-If you would like to contribute to this project, please create a pull request or open an issue. All contributions are welcome!
+This program was created as a learning exercise and is not intended for production use. However, if you would like to contribute to the project, feel free to submit a pull request.
 
 ## License
 
